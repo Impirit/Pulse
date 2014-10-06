@@ -1,0 +1,15 @@
+.p_main
+{
+	font-size:12pt;
+}
+.table_main
+{
+	 border-collapse:collapse;
+	 font-size:12pt;
+	 text-align:center;
+}
+.table_main td
+{
+	padding:1px; 
+	border:1px solid gray; 
+}
